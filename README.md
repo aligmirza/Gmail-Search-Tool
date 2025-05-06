@@ -30,7 +30,7 @@ A Python-based GUI application for searching Gmail accounts using provided crede
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/gmail-search-tool.git
+   git clone https://github.com/aligmirza/gmail-search-tool.git
    cd gmail-search-tool
    ```
 
