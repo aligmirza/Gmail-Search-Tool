@@ -148,7 +148,7 @@ To create a standalone `.exe` for Windows:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 - Built with [PyQt5](https://www.riverbankcomputing.com/software/pyqt/), [Selenium](https://www.selenium.dev/), and [PyInstaller](https://pyinstaller.org/).
